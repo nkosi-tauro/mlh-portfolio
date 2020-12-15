@@ -19,5 +19,6 @@ We built this app using Java inside Android Studio. It supports Android devices 
 
 Only one of our three team members had previous experience in app development, and one of our team members had no previous experience in Java or OOP. There was a lot we had to familiarise ourselves with during the very short 10 day development time we had, but despite this we managed to complete all of our intended features.
 
-### Try it out :
+## Try it out
+
 [Course Planner](https://github.com/Acrylami/CodingCrowsTeam3)
